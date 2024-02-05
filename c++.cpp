@@ -14,10 +14,3 @@ int main() { // The { introduces the function. It is the beginning of block for 
 
     return 0; //
 } //Concludes the function. It is the end of block for "main"
-
-int main () {
-
-    cout << "Second paragraph";
-
-    return 0;
-}
